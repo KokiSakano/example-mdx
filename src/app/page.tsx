@@ -1,7 +1,5 @@
-export default function Home() {
-  return (
-    <main>
-      hello world!
-    </main>
-  )
-}
+import Counter from './counter.mdx';
+
+export default function Page() {
+  return <Counter />;
+};
