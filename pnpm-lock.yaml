@@ -46,6 +46,9 @@ dependencies:
   rehype-pretty-code:
     specifier: ^0.9.11
     version: 0.9.11(shiki@0.14.2)
+  shiki:
+    specifier: ^0.14.2
+    version: 0.14.2
   tailwindcss:
     specifier: 3.3.2
     version: 3.3.2
